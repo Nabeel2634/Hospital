@@ -1,0 +1,91 @@
+.nav-link
+{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img1
+{
+    margin-left: 20px;
+}
+.img2
+{
+    margin-left: 15px;
+}
+.collapse{
+    margin-right: 10px;
+}
+.fonts , .fonts1 , .fonts3
+{
+    font-size: 21px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container2 , .container3 , .container4
+{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 2px;
+}
+
+
+.text
+{
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para1
+{
+    text-align: center;
+    margin-top: 45px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.class22
+{
+    margin-top: 80px;
+    text-align: center;
+}
+.parag
+{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.buton
+{
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.we-offer
+{
+    background-image: url(Images/ecg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+}
+.doctors_img
+{
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    text-align: center;
+    
+}
+.bg1
+{
+    margin-top: 50px;
+    width: 1349px;
+    height: 440px;
+    background-color: #f8f8f8;
+    border: 1px solid rgba(0, 0, 0, 0.413);
+    border-radius: 10PX;
+}
+.py-5{
+    background-image: url(Images/Medical\ Technology\ Background\,\ Medical\,\ Technology\,\ Background\ Background\ Image\ And\ Wallpaper\ for\ Free\ Download.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
